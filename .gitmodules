@@ -1,0 +1,6 @@
+[submodule "llvm-course"]
+	path = llvm-course
+	url = git@github.com:luigidcsoares/llvm-course.git
+[submodule "lif"]
+	path = lif
+	url = git@github.com:luigidcsoares/lif.git
